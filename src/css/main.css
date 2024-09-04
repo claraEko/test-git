@@ -12,3 +12,21 @@ img,
 video {
   display: block;
 }
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+.img {
+  display: flex;
+  max-width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.wooper {
+  width: 600px;
+  margin-left: 20px;
+}
